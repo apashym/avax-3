@@ -4,9 +4,8 @@ A Solidity ERC20 token contract for Ball Token (BL).
 
 ## Overview
 
-This contract implements an ERC20 token called Ball (BL). It provides functionalities for minting, burning, and transferring tokens.
-
-Absolutely, here's a brief overview of the functions in your Solidity contract:
+This contract implements an ERC20 token called Ball (BL). It provides functionalities for minting, burning, and transferring 
+here's a brief overview of the functions in  Solidity contract:
 
 ## Functions 
 
